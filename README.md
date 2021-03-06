@@ -4,6 +4,7 @@ This is the related code for our work 'sc2GAN-FE'.
 Let me teach you how to use it!
 
 Firstly, you need to download datasets, their names are '92av3c_145x145_200.mat', 'paviaU_300x145_103.mat', 'salinas_512x217_224.mat', and 'DFC_900x600_50.mat'.
+The datasets have been updated to https://doi.org/10.5281/zenodo.4587297
 
 Then, run codes in the 'data prepossessing' file.
 1. step1.py
